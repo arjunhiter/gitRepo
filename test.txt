@@ -2,5 +2,7 @@ the fisrt line
 the second line
 the third line
 the fourth line master
-the fifth line feature1
-the sixth line dev complete
+the fifth line feature1:revise bug
+the six line
+the seven line
+the eight line
